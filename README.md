@@ -13,11 +13,13 @@ If no targets are reachable it will try to arrive at the closest arrivalbe cell 
 
 ![image](https://user-images.githubusercontent.com/25722196/70846629-2ba3f000-1e81-11ea-8b14-9286f3a2f8c7.png)
 
+A multi target instance is shown below.
+
+![image](https://user-images.githubusercontent.com/25722196/70846759-7eca7280-1e82-11ea-8276-f6650c89cbb5.png)
+
 A larger grid example is shown below. 
 
 ![image](https://user-images.githubusercontent.com/25722196/70846736-38751380-1e82-11ea-9ca8-8cad37c0ba1b.png)
 
-A multi target instance is shown below.
 
-![image](https://user-images.githubusercontent.com/25722196/70846759-7eca7280-1e82-11ea-8276-f6650c89cbb5.png)
 
